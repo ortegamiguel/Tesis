@@ -1,0 +1,315 @@
+higher :: 2147443715 -- n :: 32768 --- size bucket :: 65534 
+Tiempo :: 0.004906  segundos
+
+higher :: 2147481307 -- n :: 1048576 --- size bucket :: 2047 
+Tiempo :: 0.047539  segundos
+
+higher :: 2147481354 -- n :: 2097152 --- size bucket :: 1023 
+Tiempo :: 0.090905  segundos
+
+higher :: 2147482969 -- n :: 4194304 --- size bucket :: 511 
+Tiempo :: 0.138085  segundos
+
+higher :: 2147483433 -- n :: 8388608 --- size bucket :: 255 
+Tiempo :: 0.286207  segundos
+
+higher :: 2147483515 -- n :: 16777216 --- size bucket :: 127 
+Tiempo :: 0.531663  segundos
+
+higher :: 2147483464 -- n :: 33554432 --- size bucket :: 63 
+Tiempo :: 1.091853  segundos
+
+higher :: 2147483622 -- n :: 67108864 --- size bucket :: 31 
+Tiempo :: 1.964672  segundos
+
+higher :: 2147483643 -- n :: 134217728 --- size bucket :: 15 
+Tiempo :: 4.244197  segundos
+
+higher :: 2147443715 -- n :: 32768 --- size bucket :: 65534 
+Tiempo :: 0.003996  segundos
+
+higher :: 2147481307 -- n :: 1048576 --- size bucket :: 2047 
+Tiempo :: 0.046402  segundos
+
+higher :: 2147481354 -- n :: 2097152 --- size bucket :: 1023 
+Tiempo :: 0.082580  segundos
+
+higher :: 2147482969 -- n :: 4194304 --- size bucket :: 511 
+Tiempo :: 0.137095  segundos
+
+higher :: 2147483433 -- n :: 8388608 --- size bucket :: 255 
+Tiempo :: 0.275738  segundos
+
+higher :: 2147483515 -- n :: 16777216 --- size bucket :: 127 
+Tiempo :: 0.490333  segundos
+
+higher :: 2147483464 -- n :: 33554432 --- size bucket :: 63 
+Tiempo :: 1.059293  segundos
+
+higher :: 2147483622 -- n :: 67108864 --- size bucket :: 31 
+Tiempo :: 2.094393  segundos
+
+higher :: 2147483643 -- n :: 134217728 --- size bucket :: 15 
+Tiempo :: 3.811541  segundos
+
+higher :: 2147443715 -- n :: 32768 --- size bucket :: 65534 
+Tiempo :: 0.002689  segundos
+
+higher :: 2147481307 -- n :: 1048576 --- size bucket :: 2047 
+Tiempo :: 0.045125  segundos
+
+higher :: 2147481354 -- n :: 2097152 --- size bucket :: 1023 
+Tiempo :: 0.082332  segundos
+
+higher :: 2147482969 -- n :: 4194304 --- size bucket :: 511 
+Tiempo :: 0.143262  segundos
+
+higher :: 2147483433 -- n :: 8388608 --- size bucket :: 255 
+Tiempo :: 0.287278  segundos
+
+higher :: 2147483515 -- n :: 16777216 --- size bucket :: 127 
+Tiempo :: 0.520706  segundos
+
+higher :: 2147483464 -- n :: 33554432 --- size bucket :: 63 
+Tiempo :: 1.000379  segundos
+
+higher :: 2147483622 -- n :: 67108864 --- size bucket :: 31 
+Tiempo :: 1.879972  segundos
+
+higher :: 2147483643 -- n :: 134217728 --- size bucket :: 15 
+Tiempo :: 4.071768  segundos
+
+higher :: 2147443715 -- n :: 32768 --- size bucket :: 65534 
+Tiempo :: 0.002384  segundos
+
+higher :: 2147481307 -- n :: 1048576 --- size bucket :: 2047 
+Tiempo :: 0.045762  segundos
+
+higher :: 2147481354 -- n :: 2097152 --- size bucket :: 1023 
+Tiempo :: 0.074002  segundos
+
+higher :: 2147482969 -- n :: 4194304 --- size bucket :: 511 
+Tiempo :: 0.142914  segundos
+
+higher :: 2147483433 -- n :: 8388608 --- size bucket :: 255 
+Tiempo :: 0.257190  segundos
+
+higher :: 2147483515 -- n :: 16777216 --- size bucket :: 127 
+Tiempo :: 0.496970  segundos
+
+higher :: 2147483464 -- n :: 33554432 --- size bucket :: 63 
+Tiempo :: 1.013575  segundos
+
+higher :: 2147483622 -- n :: 67108864 --- size bucket :: 31 
+Tiempo :: 1.977885  segundos
+
+higher :: 2147483643 -- n :: 134217728 --- size bucket :: 15 
+Tiempo :: 4.108895  segundos
+
+higher :: 2147443715 -- n :: 32768 --- size bucket :: 65534 
+Tiempo :: 0.003142  segundos
+
+higher :: 2147481307 -- n :: 1048576 --- size bucket :: 2047 
+Tiempo :: 0.045824  segundos
+
+higher :: 2147481354 -- n :: 2097152 --- size bucket :: 1023 
+Tiempo :: 0.083775  segundos
+
+higher :: 2147482969 -- n :: 4194304 --- size bucket :: 511 
+Tiempo :: 0.149365  segundos
+
+higher :: 2147483433 -- n :: 8388608 --- size bucket :: 255 
+Tiempo :: 0.263448  segundos
+
+higher :: 2147483515 -- n :: 16777216 --- size bucket :: 127 
+Tiempo :: 0.505745  segundos
+
+higher :: 2147483464 -- n :: 33554432 --- size bucket :: 63 
+Tiempo :: 1.045075  segundos
+
+higher :: 2147483622 -- n :: 67108864 --- size bucket :: 31 
+Tiempo :: 1.946669  segundos
+
+higher :: 2147483643 -- n :: 134217728 --- size bucket :: 15 
+Tiempo :: 3.745369  segundos
+
+Tiempo :: 0.005587  segundos
+
+Tiempo :: 0.047626  segundos
+
+Tiempo :: 0.088981  segundos
+
+Tiempo :: 0.162920  segundos
+
+Tiempo :: 0.287490  segundos
+
+Tiempo :: 0.530245  segundos
+
+Tiempo :: 0.999785  segundos
+
+Tiempo :: 2.007281  segundos
+
+Tiempo :: 4.184809  segundos
+
+Tiempo :: 0.003157  segundos
+
+Tiempo :: 0.041617  segundos
+
+Tiempo :: 0.086852  segundos
+
+Tiempo :: 0.142722  segundos
+
+Tiempo :: 0.247896  segundos
+
+Tiempo :: 0.523706  segundos
+
+Tiempo :: 0.984619  segundos
+
+Tiempo :: 2.128346  segundos
+
+Tiempo :: 3.921129  segundos
+
+Tiempo :: 0.002664  segundos
+
+Tiempo :: 0.048566  segundos
+
+Tiempo :: 0.085285  segundos
+
+Tiempo :: 0.149484  segundos
+
+Tiempo :: 0.288445  segundos
+
+Tiempo :: 0.551082  segundos
+
+Tiempo :: 1.018480  segundos
+
+Tiempo :: 1.987275  segundos
+
+Tiempo :: 3.783124  segundos
+
+Tiempo :: 0.003388  segundos
+
+Tiempo :: 0.045413  segundos
+
+Tiempo :: 0.089968  segundos
+
+Tiempo :: 0.158442  segundos
+
+Tiempo :: 0.302158  segundos
+
+Tiempo :: 0.484909  segundos
+
+Tiempo :: 1.003415  segundos
+
+Tiempo :: 2.038792  segundos
+
+Tiempo :: 3.732440  segundos
+
+Tiempo :: 0.003499  segundos
+
+Tiempo :: 0.046897  segundos
+
+Tiempo :: 0.082809  segundos
+
+Tiempo :: 0.159129  segundos
+
+Tiempo :: 0.282178  segundos
+
+Tiempo :: 0.532743  segundos
+
+Tiempo :: 0.997119  segundos
+
+Tiempo :: 1.997585  segundos
+
+Tiempo :: 3.764292  segundos
+
+Tiempo :: 0.004061  segundos
+
+Tiempo :: 0.004246  segundos
+
+Tiempo :: 0.004215  segundos
+
+Tiempo :: 0.003247  segundos
+
+Tiempo :: 0.003234  segundos
+
+Tiempo :: 0.047490  segundos
+
+Tiempo :: 0.046909  segundos
+
+Tiempo :: 0.046235  segundos
+
+Tiempo :: 0.047663  segundos
+
+Tiempo :: 0.048187  segundos
+
+Tiempo :: 0.088191  segundos
+
+Tiempo :: 0.082004  segundos
+
+Tiempo :: 0.088390  segundos
+
+Tiempo :: 0.083968  segundos
+
+Tiempo :: 0.080937  segundos
+
+Tiempo :: 0.151758  segundos
+
+Tiempo :: 0.154659  segundos
+
+Tiempo :: 0.148485  segundos
+
+Tiempo :: 0.154525  segundos
+
+Tiempo :: 0.123422  segundos
+
+Tiempo :: 0.277933  segundos
+
+Tiempo :: 0.256809  segundos
+
+Tiempo :: 0.297274  segundos
+
+Tiempo :: 0.256710  segundos
+
+Tiempo :: 0.285315  segundos
+
+Tiempo :: 0.535435  segundos
+
+Tiempo :: 0.508522  segundos
+
+Tiempo :: 0.562851  segundos
+
+Tiempo :: 0.501977  segundos
+
+Tiempo :: 0.578245  segundos
+
+Tiempo :: 1.020294  segundos
+
+Tiempo :: 1.037368  segundos
+
+Tiempo :: 1.049266  segundos
+
+Tiempo :: 1.000465  segundos
+
+Tiempo :: 1.018007  segundos
+
+Tiempo :: 1.998191  segundos
+
+Tiempo :: 2.021423  segundos
+
+Tiempo :: 1.996358  segundos
+
+Tiempo :: 2.146830  segundos
+
+Tiempo :: 1.996913  segundos
+
+Tiempo :: 3.907237  segundos
+
+Tiempo :: 3.672167  segundos
+
+Tiempo :: 3.915041  segundos
+
+Tiempo :: 3.792020  segundos
+
+Tiempo :: 3.746671  segundos
+

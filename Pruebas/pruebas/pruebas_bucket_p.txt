@@ -1,0 +1,72 @@
+Tiempo :: 0,233275  segundos
+
+Tiempo :: 1,000750  segundos
+
+Tiempo :: 1,792856  segundos
+
+Tiempo :: 6,780070  segundos
+
+Tiempo :: 15,370416  segundos
+
+Tiempo :: 60,285072  segundos
+
+Tiempo :: 115,447760  segundos
+
+Tiempo :: 233,075026  segundos
+
+Tiempo :: 1013,410634  segundos
+
+Tiempo :: 0,231785  segundos
+
+Tiempo :: 0,973282  segundos
+
+Tiempo :: 1,797290  segundos
+
+Tiempo :: 6,767686  segundos
+
+Tiempo :: 15,132537  segundos
+
+Tiempo :: 60,120535  segundos
+
+Tiempo :: 115,361616  segundos
+
+Tiempo :: 236,713405  segundos
+
+Tiempo :: 1012,184774  segundos
+
+Tiempo :: 0,232255  segundos
+
+Tiempo :: 0,987004  segundos
+
+Tiempo :: 1,792980  segundos
+
+Tiempo :: 6,824254  segundos
+
+Tiempo :: 15,142268  segundos
+
+Tiempo :: 60,202419  segundos
+
+Tiempo :: 115,565919  segundos
+
+Tiempo :: 232,895585  segundos
+
+Tiempo :: 1007,619039  segundos
+
+Tiempo :: 0,227847  segundos
+
+Tiempo :: 0,974319  segundos
+
+Tiempo :: 1,820248  segundos
+
+Tiempo :: 6,828717  segundos
+
+Tiempo :: 15,156897  segundos
+
+Tiempo :: 60,164403  segundos
+
+Tiempo :: 115,270754  segundos
+
+Tiempo :: 231,095878  segundos
+
+Tiempo :: 1007,445758  segundos
+

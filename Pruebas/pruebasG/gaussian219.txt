@@ -1,0 +1,40 @@
+
+Tiempo iteracion 0 (gap_actual=262144) = 0,009261 segundos
+
+Tiempo iteracion 1 (gap_actual=131072) = 0,008586 segundos
+
+Tiempo iteracion 2 (gap_actual=65536) = 0,010442 segundos
+
+Tiempo iteracion 3 (gap_actual=32768) = 0,012430 segundos
+
+Tiempo iteracion 4 (gap_actual=16384) = 0,013740 segundos
+
+Tiempo iteracion 5 (gap_actual=8192) = 0,012838 segundos
+
+Tiempo iteracion 6 (gap_actual=4096) = 0,015393 segundos
+
+Tiempo iteracion 7 (gap_actual=2048) = 0,016091 segundos
+
+Tiempo iteracion 8 (gap_actual=1024) = 0,017908 segundos
+
+Tiempo iteracion 9 (gap_actual=512) = 0,011049 segundos
+
+Tiempo iteracion 10 (gap_actual=256) = 0,013790 segundos
+
+Tiempo iteracion 11 (gap_actual=128) = 0,026170 segundos
+
+Tiempo iteracion 12 (gap_actual=64) = 0,044445 segundos
+
+Tiempo iteracion 13 (gap_actual=32) = 0,131815 segundos
+
+Tiempo iteracion 14 (gap_actual=16) = 0,386951 segundos
+
+Tiempo iteracion 15 (gap_actual=8) = 0,644572 segundos
+
+Tiempo iteracion 16 (gap_actual=4) = 1,105815 segundos
+
+Tiempo iteracion 17 (gap_actual=2) = 1,607771 segundos
+
+Tiempo iteracion 18 (gap_actual=1) = 3,055392 segundos
+
+Tiempo :: 7,611933  segundos

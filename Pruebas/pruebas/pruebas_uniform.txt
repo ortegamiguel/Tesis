@@ -1,0 +1,18 @@
+Tiempo :: 0,308699  segundos
+
+Tiempo :: 0,722314  segundos
+
+Tiempo :: 2,069734  segundos
+
+Tiempo :: 6,570316  segundos
+
+Tiempo :: 17,982601  segundos
+
+Tiempo :: 40,512249  segundos
+
+Tiempo :: 97,158561  segundos
+
+Tiempo :: 278,268305  segundos
+
+Tiempo :: 1113,436095  segundos
+
